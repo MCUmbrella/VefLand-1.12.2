@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://E:/$DOWNLOADS/Download/Paper-1.12.2-b1618.jar!/" />
+    <libelement value="jar://$USER_HOME$/mapped.cf6b1333.jar!/" />
+    <src_description expected_position="0" />
+  </component>
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>PAPER</platformType>
+          <platformType>MCP</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="srgType" value="SRG" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/Spigot-Server/target/classes" />
+    <output-test url="file://$MODULE_DIR$/Spigot-Server/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Spigot-Server/target" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="Paper-1.12.2-b1618.jar">
+        <CLASSES>
+          <root url="jar://E:/$DOWNLOADS/Download/Paper-1.12.2-b1618.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mapped.cf6b1333.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/mapped.cf6b1333.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
