@@ -1,0 +1,12 @@
+[submodule "Spigot-API"]
+	path = Spigot-API
+	url = https://github.com/archivedata/Spigot-API/
+[submodule "Bukkit"]
+	path = Bukkit
+	url = https://github.com/MCUmbrella/Bukkit
+[submodule "CraftBukkit"]
+	path = CraftBukkit
+	url = https://github.com/MCUmbrella/CraftBukkit
+[submodule "Spigot-Server"]
+	path = Spigot-Server
+	url = https://github.com/MCUmbrella/Spigot-Server
