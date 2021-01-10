@@ -1,6 +1,6 @@
 [submodule "Spigot-API"]
 	path = Spigot-API
-	url = https://github.com/archivedata/Spigot-API/
+	url = https://github.com/SpigotMC/Spigot-API
 [submodule "Bukkit"]
 	path = Bukkit
 	url = https://github.com/MCUmbrella/Bukkit
